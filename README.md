@@ -1,4 +1,3 @@
-Contact Application or Call Booth
+CONTACT APPLICATION OR PHONE BOOT
 
-A Contact Management App is a software application that allows users to organize and store contact information, such as names, phone numbers, email addresses, and other details, in a digital format.
-It is a valuable tool for anyone who needs to manage many contacts and stay on top of their communication and networking activities.
+A contact management app is a useful software application that helps users to store and organize contact information like names, phone numbers, email addresses, and other details in a digital format. It is an essential tool for individuals who need to handle multiple contacts and keep track of their communication and networking activities.
